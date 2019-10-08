@@ -1,0 +1,16 @@
+{
+  "name": "js_gratun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sreverse_the_number.js",
+  "scripts": {
+    "start": "nodemon Elastic.js"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^1.19.2"
+  }
+}

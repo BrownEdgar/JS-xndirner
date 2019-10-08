@@ -1,0 +1,27 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+ul{
+	list-style: none;
+	margin: 20px auto;
+}
+ul li{
+	padding: 10px;
+	background-color: coral;
+	display: block;
+	width: 60px;
+	margin-top: 1px;
+	text-align: center;
+}
+button{
+	position: fixed;
+	left: 130px;
+	top: 25px;
+	padding: 5px;
+	margin-left: 50px;
+	background-color: coral;
+	color: #f2f2f2;
+	font-weight: 800;
+	box-shadow: 3px -2px 5px rgba(180,50,0,0.4)
+}
