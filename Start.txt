@@ -1,0 +1,18 @@
+https://www.youtube.com/watch?v=C6lGTQAvE24
+
+
+git config --global user.name "Edgar Nikoghosyan"
+git config  --global user.email nikogosjan_edgar@mail.ru
+stugelu hamar -  cat .git/config
+
+
+ local userin 
+jnjelu hamar
+git config --unset user.name
+
+
+
+ git config --global --edit -bacum e useri masin gitConfigy textovi redaktorum
+
+
+ git config --global alias.c config  - stexcuma MAKROS vor "git config" poxaren karelia havaqel  "git c"
