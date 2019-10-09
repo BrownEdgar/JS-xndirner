@@ -9,6 +9,7 @@ function fun(k, n){
         k++;
     },200)
 }
+
 fun(1, 20)
 //homework2
 function print(){console.log(12345)}
