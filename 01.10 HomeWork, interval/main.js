@@ -7,7 +7,7 @@ let setI = setInterval(function check20() {
 		clearInterval(setI);
 		console.log("The end");
     }
-}, 1000);*/
+}, 1000);
 
 /*anather*/
 function fun(k, n){
@@ -24,6 +24,7 @@ fun(1, 10)
 
 // myInterval Ֆունկցիա
 function testF(){
+    console.log("x")
 }
 function myInterval(f, sec){
     setTimeout(f, sec);
