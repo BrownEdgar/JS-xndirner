@@ -3,7 +3,7 @@ var unknow = function unknow(a,b){
 }
 function unknow(a,b){
     console.log(a+b);
-function unknow(a,b){ 
+return function unknow2(a,b){ 
     console.log((a+b)/2);
  }
 }

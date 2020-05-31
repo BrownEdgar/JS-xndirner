@@ -8,7 +8,7 @@ $(function(){
 	});
 	console.log(getClass);//զանգված div-րի կլասների անուններից
 
-	/*Ստուգում է արդյոք նշված id-ով div-ը ունի ՛findmeTo՛ ցլասսը թե ոչ, վերադարձնում է true/false*/
+	/*Ստուգում է արդյոք նշված id-ով div-ը ունի ՛findmeTo՛ կլասսը թե ոչ, վերադարձնում է true/false*/
 	let x= $( "#mydiv" ).hasClass( "findmeTo" );//true- uni tenc class
 	let y= $( "#mydiv" ).hasClass( "noclass" );//false
 

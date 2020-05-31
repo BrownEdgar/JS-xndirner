@@ -31,5 +31,5 @@ console.log(fname2(2,4,"gumarel"));
 console.log(fname2(2,4,"bazmapatkel"));
 console.log(fname2(16,4,"bajanel"));
 console.log(fname2(16,4,"hanel"));
-//git diff -
+
 

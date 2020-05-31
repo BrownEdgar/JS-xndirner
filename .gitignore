@@ -1,4 +1,5 @@
 Dnode_modules/
 **/*/node_modules/
 Part_2/*/node_modules/
-
+node_modules/
+.env
